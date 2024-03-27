@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Eliza\OneDrive\Documents\GitHub\codelab-i-QuantumFellow\Chapter-1-Introduction-to-C++\Exercises\Temperature (Bonus)\Temperature (Bonus)\Source.cpp(9,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Eliza\OneDrive\Documents\GitHub\codelab-i-QuantumFellow\Chapter-1-Introduction-to-C++\Exercises\Temperature (Bonus)\Temperature (Bonus)\Source.cpp(18,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliza\OneDrive\Documents\GitHub\codelab-i-QuantumFellow\Chapter-1-Introduction-to-C++\Exercises\Temperature (Bonus)\Temperature (Bonus)\Source.cpp(22,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Temperature (Bonus).vcxproj -> C:\Users\Eliza\OneDrive\Documents\GitHub\codelab-i-QuantumFellow\Chapter-1-Introduction-to-C++\Exercises\Temperature (Bonus)\x64\Debug\Temperature (Bonus).exe

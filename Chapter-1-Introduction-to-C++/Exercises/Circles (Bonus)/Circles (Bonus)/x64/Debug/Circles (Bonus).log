@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Eliza\OneDrive\Documents\GitHub\codelab-i-QuantumFellow\Chapter-1-Introduction-to-C++\Exercises\Circles (Bonus)\Circles (Bonus)\Source.cpp(12,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliza\OneDrive\Documents\GitHub\codelab-i-QuantumFellow\Chapter-1-Introduction-to-C++\Exercises\Circles (Bonus)\Circles (Bonus)\Source.cpp(13,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Circles (Bonus).vcxproj -> C:\Users\Eliza\OneDrive\Documents\GitHub\codelab-i-QuantumFellow\Chapter-1-Introduction-to-C++\Exercises\Circles (Bonus)\x64\Debug\Circles (Bonus).exe
