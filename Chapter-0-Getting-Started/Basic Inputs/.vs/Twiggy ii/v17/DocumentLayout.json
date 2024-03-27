@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eliza\\OneDrive\\Documents\\GitHub\\Codelab\\Chapter-0-Getting-Started\\Twiggy ii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDA7BC8-5F31-4DA6-AE75-612762290450}|Twiggy ii\\Twiggy ii.vcxproj|C:\\Users\\Eliza\\OneDrive\\Documents\\GitHub\\Codelab\\Chapter-0-Getting-Started\\Twiggy ii\\Twiggy ii\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBDA7BC8-5F31-4DA6-AE75-612762290450}|Twiggy ii\\Twiggy ii.vcxproj|solutionrelative:Twiggy ii\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Eliza\\OneDrive\\Documents\\GitHub\\Codelab\\Chapter-0-Getting-Started\\Twiggy ii\\Twiggy ii\\Source.cpp",
+              "RelativeDocumentMoniker": "Twiggy ii\\Source.cpp",
+              "ToolTip": "C:\\Users\\Eliza\\OneDrive\\Documents\\GitHub\\Codelab\\Chapter-0-Getting-Started\\Twiggy ii\\Twiggy ii\\Source.cpp",
+              "RelativeToolTip": "Twiggy ii\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T13:17:17.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

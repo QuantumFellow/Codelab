@@ -1,9 +1,0 @@
-Oasis-1.6-2-
-Fanta-1.19-6-
-Pepsi-0.7-1-
-Dr Pepper-1.65-4-
-Irn Bru-1.35-3-
-Water-0.9-7-
-Sprite-1.09-5-
-Smoothie-1.87-4-
-Milkshake-2.19-9-

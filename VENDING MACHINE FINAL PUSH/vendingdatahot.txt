@@ -1,9 +1,0 @@
-Green Tea-1.8-2-
-Cappuccino-2.65-5-
-Latte-2.65-8-
-Flat White-2.4-1-
-Americano-2.4-7-
-Decaf Coffee-2.3-8-
-Decaf Tea-1.75-9-
-Tea-1.75-3-
-Hot Chocolate-3.15-6-
